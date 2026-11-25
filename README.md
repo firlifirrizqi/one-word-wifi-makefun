@@ -1,8 +1,8 @@
 # One Word for Your Wi-Fi
 
-[![make.fun](https://make.fun/badge/firlifirrizqi/one-word-wifi-makefun)](https://make.fun/firlifirrizqi/one-word-wifi-makefun)
-[![make.fun entry](https://make.fun/badge/firlifirrizqi/one-word-wifi-makefun/entry)](https://make.fun/firlifirrizqi/one-word-wifi-makefun)
-[![make.fun prize](https://make.fun/badge/firlifirrizqi/one-word-wifi-makefun/prize)](https://make.fun/firlifirrizqi/one-word-wifi-makefun)
+[![Make.fun bounty](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![Rank](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/firlifirrizqi/one-word-wifi-makefun/rank.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
+[![Reward](https://make.fun/badge/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72/firlifirrizqi/one-word-wifi-makefun/reward.svg)](https://make.fun/bounty/u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)
 
 One word that describes my Wi-Fi, for the Make.fun competition
 "One Word for Your Wi-Fi".
